@@ -1,0 +1,21 @@
+import board
+from kmk.kmk_keyboard import KMKKeyboard
+from kmk.extensions.display import Display
+from kmk.extensions.display.ssd1306 import SSD1306
+
+class MyKeyboard(KMKKeyboard):
+    def __init__(self):
+        # Konfiguracja przycisków: D10, D9, D8, D7
+        self.pins = (board.D10, board.D9, board.D8, board.D7)
+        
+               self.display_driver = SSD1306(
+            i2c=board.I2C(),
+            device_address=0x3C,
+        )
+
+        self.display = Display(
+            display_driver=self.display_driver,
+            width=128,
+            height=32,
+        )
+        self.extensions.append(self.display)

@@ -1,0 +1,22 @@
+from kb import MyKeyboard
+from kmk.keys import KC
+from kmk.extensions.display import TextEntry
+
+keyboard = MyKeyboard()
+
+keyboard.display.entries = [
+    TextEntry(text='XIAO MACROPAD', x=0, y=0),
+    TextEntry(text='Ready!', x=0, y=15),
+]
+
+keyboard.keymap = [
+    [
+        KC.LCTL(KC.C), # Kopiuj
+        KC.LCTL(KC.V), # Wklej
+        KC.LCTL(KC.Z), # Cofnij
+        KC.LCTL(KC.LSFT(KC.ESC)) # Menadżer zadań
+    ]
+]
+
+if __name__ == '__main__':
+    keyboard.go()
