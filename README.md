@@ -13,8 +13,8 @@ A minimalist, high-performance macropad powered by the **Seeeduino XIAO** and **
 - 4x MX-Style switches
 - 1x 0.91 inch OLED display
 - 4x white blank DSA keycaps
-- 4x M3x16mm screws
-- 3x M3x5mx4mm heatset inserts
+- 2x M3x16mm screws
+- 2x M3x5mx4mm heatset inserts
 - 1x custom PCB
 ## 🛠️ Hardware Specification
 
