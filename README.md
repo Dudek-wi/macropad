@@ -52,3 +52,7 @@ This project is licensed under the **MIT License**. Feel free to use, modify, an
 
 ---
 *Created with ❤️ using KMK and Seeeduino XIAO.*
+<img width="902" height="670" alt="Zrzut ekranu 2026-03-26 175812" src="https://github.com/user-attachments/assets/e988c5ea-fd1d-4f33-b9f4-48ee5a11c063" />
+<img width="1104" height="690" alt="Zrzut ekranu 2026-03-26 175825" src="https://github.com/user-attachments/assets/0b3ab646-00e0-4949-a90b-7104f7569fec" />
+<img width="1072" height="655" alt="Zrzut ekranu 2026-03-26 175757" src="https://github.com/user-attachments/assets/17c87e87-0031-4c33-a542-3727a9fc7db9" />
+<img width="1087" height="849" alt="Zrzut ekranu 2026-03-26 175856" src="https://github.com/user-attachments/assets/03bb6260-ae71-49d3-8f7e-d2635df93d5e" />
