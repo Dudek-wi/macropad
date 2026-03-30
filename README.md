@@ -1,4 +1,4 @@
-XIAO 4-key macropad with 128 by 32 OLED
+XIAO 4-key macropad (hackpad) with 128 by 32 OLED
 
 Anyone looking for an easy-to-use macro panel will find what they’re looking for here. Built on the Seeeduino XIAO, it lives inside KMK Firmware using CircuitPython - so all actions speak without any need to compile. Four mechanical buttons connect straight into place while an OLED screen shows what matters. 
 
