@@ -69,3 +69,4 @@ I make this project under the MIT License. You are free to use it.
 <img width="1104" height="690" alt="Zrzut ekranu 2026-03-26 175825" src="https://github.com/user-attachments/assets/57960fcb-8d9f-4b0a-89c7-d8fae6ce7dd3" />
 <img width="1087" height="849" alt="Zrzut ekranu 2026-03-26 175856" src="https://github.com/user-attachments/assets/64ba9d97-f85f-4735-adc8-4eace01d9603" />
 <img width="864" height="560" alt="Zrzut ekranu 2026-03-26 212112" src="https://github.com/user-attachments/assets/3c32fa7c-6097-4b1a-973c-0ddd57013c2e" />
+*(This is a screenshot from Fusion360 render)
